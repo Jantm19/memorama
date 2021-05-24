@@ -1,3 +1,7 @@
+/**CODIGO CORRESPONDIENTE AL TABLERO
+ *El cual consta de un panel dividido en filas y columnas las cuales permitiran organizar las cartas correspondientes a la baraja 
+ * 
+ */
 import java.awt.Color;
 import javax.swing.JFrame;
 import javax.swing.ImageIcon;
